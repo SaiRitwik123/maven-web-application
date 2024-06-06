@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <urlhttp://3.141.34.218:9980/sairitwikreddy/repository/citibank-snapshot/></url>
+	      <url>http://3.141.34.218:9980/sairitwikreddy/repository/citibank-snapshot/></url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
